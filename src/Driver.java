@@ -9,6 +9,9 @@ public class Driver {
 		//Call the sad method from the Sad class -JR
 		Sad.sad();
 		
+		//Call the verySad method from the Sad class -JR
+		Sad.verySad();
+		
 		//call the hungry method from hungry class _JE
 		Hungry.hungry();
 	}
