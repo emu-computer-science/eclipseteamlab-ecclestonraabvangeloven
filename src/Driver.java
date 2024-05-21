@@ -11,6 +11,7 @@ public class Driver {
 		
 		//call the hungry method from hungry class _JE
 		Hungry.veryHungry();
+		Hungry.hungry();//placed the old call-JE
 	}
 }
 
