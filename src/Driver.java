@@ -11,6 +11,9 @@ public class Driver {
 		
 		//call the hungry method from hungry class _JE
 		Hungry.hungry();
+		
+		//call the ohno method from the Glad class -TVG
+		Glad.ohno();
 	}
 }
 
