@@ -5,5 +5,8 @@ public class Driver {
 		
 		//Call the glad method from the Glad class
 		Glad.glad();
+		
+		//Call the sad method from the Sad class -JR
+		Sad.sad();
 	}
 }
