@@ -15,7 +15,9 @@ public class Driver {
 		//call the ohno method from the Glad class -TVG
 		Glad.ohno();
 		System.out.println("Oh no!");
-		
+
+		Hungry.veryHungry();
+
 		Hungry.veryHungry();
 		
 		//Call to very sad - JR
