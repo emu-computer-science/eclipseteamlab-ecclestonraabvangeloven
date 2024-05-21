@@ -14,6 +14,9 @@ public class Driver {
 		
 		//Call to very sad - JR
 		Sad.verySad();
+		
+		//Another very sad call to cause a conflict
+		Sad.verySad();
 	}
 }
 
